@@ -4,3 +4,5 @@
 [javascript](https://github.com/8ORUZ7/code-review/blob/main/javascript.md)
 [php](https://github.com/8ORUZ7/code-review/blob/main/php.md)
 [java](https://github.com/8ORUZ7/code-review/blob/main/java.md)
+
+[dsa notes: c++, javascript, python, java](https://github.com/8ORUZ7/data-structure-and-advance-algorithm)
